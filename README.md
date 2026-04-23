@@ -50,3 +50,5 @@ O pipeline foi construído utilizando uma stack híbrida para lidar tanto com a 
 - Agilidade: Aumento de 40% na velocidade de tomada de decisão.
 - Confiabilidade: Melhoria de 30% na confiabilidade dos dados através de regras de negócio padronizadas e governança automatizada.
 - Escalabilidade: Implementação de uma arquitetura centralizada capaz de suportar volumes crescentes de dados.
+
+![Fluxo de Automação](Automation.png)
